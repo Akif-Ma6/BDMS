@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# BDMS
-Blood Donation Management System
-=======
 # Blood-Bank-&-Donation-Management-System
 
 Blood Bank Donation System is a php based web project with both admin and user layouts.
@@ -87,8 +83,8 @@ Blood Bank Donation System is a php based web project with both admin and user l
    <br>
    <br>
    2.Dashboard 
-   <img src="https://user-images.githubusercontent.com/54537819/96366040-ace3a780-1162-11eb-86d9-9270b8931b70.png"><br><br>
-   <img src="https://user-images.githubusercontent.com/54537819/96366049-ba992d00-1162-11eb-84e8-b90fb507f20d.png">
+   <img src="https://github.com/Akif-Ma6/BDMS/issues/2#issue-2905351584"><br><br>
+   <img src="https://github.com/Akif-Ma6/BDMS/issues/2#issue-2905351584">
    <br><br>
    3.Change Password Page
    <img src="https://user-images.githubusercontent.com/54537819/96366158-75c1c600-1163-11eb-909b-2021d5cd2b06.png">
@@ -115,4 +111,3 @@ Blood Bank Donation System is a php based web project with both admin and user l
    <img src="https://user-images.githubusercontent.com/54537819/96366208-b15c9000-1163-11eb-8163-e2d9f9bc4af5.png">
    
    
->>>>>>> 86cf401 (Initial project commit)
