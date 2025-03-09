@@ -104,7 +104,7 @@ Blood Bank Donation System is a php based web project with both admin and user l
    <br>
    <br>
    8.Update Page Details
-   <img src="image/update-page-details">
+   <img src="image/update-page-details.png">
    <br>
    <br>
    9.Update Contact Info Page
