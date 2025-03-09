@@ -83,31 +83,31 @@ Blood Bank Donation System is a php based web project with both admin and user l
    <br>
    <br>
    2.Dashboard 
-   <img src="https://github.com/Akif-Ma6/BDMS/issues/2#issue-2905351584"><br><br>
-   <img src="https://github.com/Akif-Ma6/BDMS/issues/2#issue-2905351584">
-   <br><br>
+   <img src="image/admin-dashboard.png"><br><br>
+   <!-- <img src="image/admin-dashboard.png">
+   <br><br> -->
    3.Change Password Page
-   <img src="https://user-images.githubusercontent.com/54537819/96366158-75c1c600-1163-11eb-909b-2021d5cd2b06.png">
+   <img src="image/change pass.png">
    <br><br>
    4.Add Donor Page
-   <img src="https://user-images.githubusercontent.com/54537819/96366077-e3212700-1162-11eb-9f81-7d0dca60e913.png">
+   <img src="image/admin-add-donor.png">
    <br>
    <br>
    5.Donor List Page
-   <img src="https://user-images.githubusercontent.com/54537819/96366097-fdf39b80-1162-11eb-99cc-8506d03c900d.png">
+   <img src="image/admin-donor-list.png">
    <br><br>
    6.Check Contact Us Query Page
-   <img src="https://user-images.githubusercontent.com/54537819/96366120-1c599700-1163-11eb-9fa4-55355192d1b8.png">
+   <img src="image/admin-contactus.png">
    <br><br>
    7.Manage Page Data
-   <img src="https://user-images.githubusercontent.com/54537819/96366140-4f9c2600-1163-11eb-86fc-65d9094f0807.png">
+   <img src="image/admin-manage-page.png">
    <br>
    <br>
    8.Update Page Details
-   <img src="https://user-images.githubusercontent.com/54537819/96366183-938f2b00-1163-11eb-8f3a-4cb90e877c11.png">
+   <img src="image/update-page-details">
    <br>
    <br>
    9.Update Contact Info Page
-   <img src="https://user-images.githubusercontent.com/54537819/96366208-b15c9000-1163-11eb-8163-e2d9f9bc4af5.png">
+   <img src="image/admin-contact-info.png">
    
    
